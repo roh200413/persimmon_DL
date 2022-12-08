@@ -2,6 +2,7 @@
 
 * 단감 등급 선별 시스템 추론 프로세스
 <br/>
-<img src="https://user-images.githubusercontent.com/39451858/206441593-841dc01c-9491-44af-ab3a-874120a3026e.png"  width="500" height="620"/>
-
+<div align=center> 
+  <img src="https://user-images.githubusercontent.com/39451858/206441593-841dc01c-9491-44af-ab3a-874120a3026e.png"  width="500" height="620"/>
+</div>
 논문 URL: https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202219455123548&SITE=CLICK
