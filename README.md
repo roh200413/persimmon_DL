@@ -4,7 +4,7 @@
 - EfficientDet OB 모델 + PyCaret 라이브러리를 활용한 머신러닝 모델 사용 <br/>
 <br/>
 <div align=center> 
-  <img src="https://user-images.githubusercontent.com/39451858/206441593-841dc01c-9491-44af-ab3a-874120a3026e.png"  width="300" height="400"/>
+  <img src="https://user-images.githubusercontent.com/39451858/206441593-841dc01c-9491-44af-ab3a-874120a3026e.png"  width="300" height="370"/>
 </div>
 <br/>
 <br/>
@@ -13,7 +13,7 @@
 - python, tensorflow 사용 <br/>
 - Modified MobileNet 모델 사용 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/39451858/206478065-1cf06e3d-89bb-4bc1-a8f9-d83a5d2a0d88.png"  width="400" height="160"/>
+  <img src="https://user-images.githubusercontent.com/39451858/206478065-1cf06e3d-89bb-4bc1-a8f9-d83a5d2a0d88.png"  width="380" height="160"/>
 </div>
 <br/>
 <br/>
