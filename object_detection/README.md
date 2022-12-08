@@ -3,4 +3,4 @@
 
 * 단감 등급 선별 시스템 추론 프로세스
 
-<img src="https://user-images.githubusercontent.com/39451858/206441593-841dc01c-9491-44af-ab3a-874120a3026e.png  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/39451858/206441593-841dc01c-9491-44af-ab3a-874120a3026e.png"  width="200" height="400"/>
