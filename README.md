@@ -6,8 +6,6 @@
 <div align=center> 
   <img src="https://user-images.githubusercontent.com/39451858/206441593-841dc01c-9491-44af-ab3a-874120a3026e.png"  width="300" height="370"/>
 </div>
-<br/>
-<br/>
 
 <h3> 2. 혼합 2단계 합성 신경망을 이용한 단감 분류(2021) </h3>
 - python, tensorflow 사용 <br/>
