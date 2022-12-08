@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/39451858/206478065-1cf06e3d-89bb-4bc1-a8f9-d83a5d2a0d88.png"  width="500" height="200"/>
 <br/>
 <br/>
-<img src="https://user-images.githubusercontent.com/39451858/206478082-bbd61ba7-3b6b-4745-a3ad-7829705eb226.png"  width="600" height="240"/>
+<img src="https://user-images.githubusercontent.com/39451858/206478082-bbd61ba7-3b6b-4745-a3ad-7829705eb226.png"  width="800" height="320"/>
 <br/>
 CAM을 사용한 불량 요인 시각화
 </div>
